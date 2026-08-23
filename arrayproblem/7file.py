@@ -1,0 +1,10 @@
+from array import array
+arr=array('i',[10,20,30])
+f=open("data.bin","wb")
+arr.tofile(f)
+f.close()
+arr2=array('i')
+f=open("data.bin","rb")
+arr2.fromfile(f,3)
+f.close()
+print(arr2)
