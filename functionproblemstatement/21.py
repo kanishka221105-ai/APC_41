@@ -1,0 +1,1 @@
+#21.	Create a function that accepts item prices and quantities and returns the total bill after applying a discount.

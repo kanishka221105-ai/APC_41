@@ -1,0 +1,1 @@
+#20.	Write a function that accepts basic salary and calculates gross salary after adding HRA and DA.

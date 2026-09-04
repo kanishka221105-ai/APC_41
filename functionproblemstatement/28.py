@@ -1,0 +1,1 @@
+#28.	Implement functions to add/remove products, calculate subtotal, apply coupon discounts, calculate GST, and generate the final invoice.

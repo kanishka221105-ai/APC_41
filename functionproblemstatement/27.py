@@ -1,0 +1,1 @@
+#27.	Create functions to calculate consultation charges, laboratory charges, medicine charges, room charges, and final bill. Apply discounts based on patient category.

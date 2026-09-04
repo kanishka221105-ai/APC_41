@@ -1,0 +1,1 @@
+#19.	Write a function that accepts the number of units consumed and calculates the electricity bill according to predefined slabs.

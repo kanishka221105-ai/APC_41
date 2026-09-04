@@ -1,0 +1,1 @@
+#18.	Create a function that accepts marks in five subjects and returns the student's percentage and grade.

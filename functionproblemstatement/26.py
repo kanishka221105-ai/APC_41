@@ -1,0 +1,1 @@
+#26.	Develop a modular program using functions to calculate electricity bills using different consumption slabs. Include fixed charges, taxes, and discounts.

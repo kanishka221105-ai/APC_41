@@ -1,0 +1,1 @@
+#37.	Create a lambda function to calculate simple interest using principal, rate, and time.
