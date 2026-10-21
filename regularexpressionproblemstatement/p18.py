@@ -1,0 +1,1 @@
+#18.	Write a program to extract six-digit Indian PIN codes from a paragraph.

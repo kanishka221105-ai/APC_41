@@ -1,0 +1,1 @@
+#8.	Write a program to identify all words ending with the letter s.

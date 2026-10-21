@@ -1,0 +1,1 @@
+#10.	Write a program to count the number of words in a sentence using regular expressions.

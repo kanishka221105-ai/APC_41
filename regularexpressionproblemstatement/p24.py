@@ -1,0 +1,1 @@
+#24.	Validate product codes following the pattern ABC-1234-XY, where letters and digits must appear in the specified positions.

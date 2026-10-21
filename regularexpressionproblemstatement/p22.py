@@ -1,0 +1,1 @@
+#22.	Extract invoice numbers, dates, and monetary amounts from invoice text using regular expressions.

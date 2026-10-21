@@ -1,0 +1,1 @@
+#20.	Write a program to extract file extensions from filenames in a given string

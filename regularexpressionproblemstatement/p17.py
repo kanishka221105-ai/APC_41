@@ -1,0 +1,1 @@
+#17.	Write a program to identify consecutive repeated words in a sentence, ignoring case differences.

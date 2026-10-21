@@ -1,0 +1,1 @@
+#6.	Write a program to replace multiple consecutive spaces with a single space.

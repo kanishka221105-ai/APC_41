@@ -1,0 +1,1 @@
+#7.	Accept a sentence and display all words containing exactly five characters.

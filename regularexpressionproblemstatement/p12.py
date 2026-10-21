@@ -1,0 +1,1 @@
+#12.	Accept an email address and check whether it follows a reasonable email format.

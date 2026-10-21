@@ -1,0 +1,1 @@
+#25.	Given a paragraph containing student names, roll numbers, and marks, extract each field using regular expressions.

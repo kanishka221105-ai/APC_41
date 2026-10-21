@@ -1,0 +1,1 @@
+#19.	Write a program to check whether an input matches a common Indian vehicle registration format, such as MH12AB1234.

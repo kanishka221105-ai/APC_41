@@ -1,0 +1,1 @@
+#15.	Write a program to extract all hashtags from a social media post.
